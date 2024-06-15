@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Victor! 👋</h1>
 <h3 align="center">A Computer Science student from Brazil.</h3>
 
-- I aim to learn new technologies every day, focusing currently on developing my Scientific Initiation project using the 3D game engine Unity and AR Foundation. Additionally, I am expanding my knowledge through various subjects in both personal and academic projects.
+- I aim to learn new technologies every day, expanding my knowledge through various subjects in both personal and academic projects.
 
 
 <h3 align="left">Languages and Tools:</h3>
