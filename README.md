@@ -13,7 +13,7 @@ architecture, including <b>HAL</b> and <b>Framework</b>.
 <h3 align="left">🛠️ Languages and Tools</h3>
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"
       alt="C" width="40" height="40"/>
   </a>
